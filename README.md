@@ -7,5 +7,5 @@
 | expressjs | ✅ |
 | koa | ✅ |
 | axios | ✅ |
-| create-react-app | ❌ |
+| create-react-app | ✅ |
 
