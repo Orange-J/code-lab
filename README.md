@@ -8,4 +8,5 @@
 | koa | ✅ |
 | axios | ✅ |
 | create-react-app | ✅ |
+| node: dns | ✅ |
 
